@@ -1,0 +1,4 @@
+python3.9+
+streamlit==1.41.1
+pandas==1.5.3
+openai==1.65.5
